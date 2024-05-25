@@ -1,0 +1,4 @@
+:ID;tipoDocumento;numeroDocumento;cliente;Plaza;TipoModelo;Nodo;Score;inhabilitado;PeorVencidoSCE;NumOpVencidasXAnoSCE;VENCIDO;cuotaEstimada;ingresoEstimado;consumoActual;rangoEdad;:LABEL
+1;C;0100828888;ZAVALA ORELLANA MARTHA PIEDAD;SIERRA;ORIGINACION;S1;997;NO;1-2 meses;0;0;4854.63;6000;SI;[60-63];NO;-;-;Cliente
+2;C;0101196160;GUZMAN AVILA BRAULIO ALEJANDRO;SIERRA;COMPORTAMIENTO;N3;727;NO;0 meses;0;0;7563.46;6000;SI;[54-59];NO;-;-;Cliente
+
